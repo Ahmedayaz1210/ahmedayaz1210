@@ -8,10 +8,14 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=http://ahmedayaz.pages.dev/)](http://ahmedayaz.pages.dev/)
 [![Github](https://img.shields.io/github/followers/ahmedayaz1210?label=Follow&style=social)](https://github.com/ahmedayaz1210)
 
-👨‍🎓 A Computer Science student at Wentworth Institute of Technology 
+👨‍🎓 A Computer Science student at Wentworth Institute of Technology.
+
 💻 I possess passion for AI, full stack development, and machine learning. 
+
 🚀 I'm currently working on an exciting project called Ascend AI, a habit tracking app that's set to revolutionize personal development. You can join the waitlist at https://ascend-ai-sigma.vercel.app/ to be one of the first to experience it. 
+
 🏋️ 🏏When I'm not coding, you'll find me pushing my limits at the gym or enjoying a good game of cricket. 
+
 📈 I'm always eager to connect with fellow tech enthusiasts and collaborate on innovative projects that push the boundaries of what's possible in software development.
 
 ### 🖥 Skills
