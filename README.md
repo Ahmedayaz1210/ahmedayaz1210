@@ -10,7 +10,7 @@
 
 👨‍🎓 A Computer Science student at Wentworth Institute of Technology.
 
-💻 I possess passion for AI, full stack development, and machine learning. 
+💻 I possess passion for AI, Full stack development, and Deep learning. 
 
 🚀 I'm currently working on an exciting project called Ascend AI, a habit tracking app that's set to revolutionize personal development. You can join the waitlist at https://ascend-ai-sigma.vercel.app/ to be one of the first to experience it. 
 
