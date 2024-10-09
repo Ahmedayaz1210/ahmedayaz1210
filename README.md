@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-ahmed-ayaz//)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmedayaz1210@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=http://ahmedayaz.pages.dev/)](http://ahmedayaz.pages.dev/)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=http://ahmedayaz.com/)](http://ahmedayaz.com/)
 [![Github](https://img.shields.io/github/followers/ahmedayaz1210?label=Follow&style=social)](https://github.com/ahmedayaz1210)
 
 ![deepthinking](https://github.com/user-attachments/assets/8ec04940-e318-4734-bb86-e168d64e4808)
